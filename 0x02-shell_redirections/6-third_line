@@ -1,2 +1,2 @@
 #!/bin/bash
-cat iactra head -n 3 |tail 
+cat head -n 3 iacta  | tail -n 1
